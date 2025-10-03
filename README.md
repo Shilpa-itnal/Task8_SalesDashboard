@@ -24,10 +24,5 @@ This project uses Power BI to create a dashboard showing sales performance by pr
 - Technology category showed consistent growth
 - Sales peaked in November due to holiday promotions.
   
-    File Name	                                   Description
-Superstore_Sales.csv    	The dataset used for analysis (Order Date, Region, Category, Sales, Profit)
-Task8_Dashboard.pdf	      Exported dashboard showing charts and filters
-Insights.txt	            Written insights (e.g., top regions, trends, categories)
-
-
+   
 
